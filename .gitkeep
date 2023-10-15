@@ -1,7 +1,7 @@
-__tests__
-public
-src/components
-src/app
-src/app/api
-src/utils
-src/styles
+/__tests__
+/public
+/src/components
+/src/app
+/src/app/api
+/src/utils
+/src/styles
